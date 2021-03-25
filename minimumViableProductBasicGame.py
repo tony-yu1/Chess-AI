@@ -14,6 +14,7 @@ class Game:
         self.main()
 
         
+        
     def placePieces(self):
 
         for i in range(0,8):
